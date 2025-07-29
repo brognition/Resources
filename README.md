@@ -14,6 +14,7 @@ Writing good code is an essential part of doing high-quality, credible science. 
 Check out these Standard Operating Procedure (SOP) guides to good code:
 
 - [SOP - Python](https://github.com/brognition/Resources/wiki/SOP-%E2%80%90-Python)
+- [SOP - MATLAB](https://github.com/brognition/Resources/wiki/SOP-%E2%80%90-MATLAB)
 
 ## Project Repository Organization
 
